@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kent on Fatma Kahveci</title>
-    <link>https://fatmakahveci.com/tags/kent/</link>
+    <link>https://fatmakahveci.github.io/tags/kent/</link>
     <description>Recent content in kent on Fatma Kahveci</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fatmakahveci.com/tags/kent/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://fatmakahveci.github.io/tags/kent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>England</title>
-      <link>https://fatmakahveci.com/travel/england/</link>
+      <link>https://fatmakahveci.github.io/travel/england/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel/england/</guid>
+      <guid>https://fatmakahveci.github.io/travel/england/</guid>
       <description>London, Cambridge, Oxford and Kent.</description>
     </item>
     

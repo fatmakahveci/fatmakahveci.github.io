@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>javascript on Fatma Kahveci</title>
-    <link>https://fatmakahveci.com/tags/javascript/</link>
+    <link>https://fatmakahveci.github.io/tags/javascript/</link>
     <description>Recent content in javascript on Fatma Kahveci</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fatmakahveci.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://fatmakahveci.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript</title>
-      <link>https://fatmakahveci.com/frontend-note/javascript/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/javascript/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/javascript/</guid>
       <description>Updated by Fatma, Jul 25, 2023.</description>
     </item>
     

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>design patterns on Fatma Kahveci</title>
-    <link>https://fatmakahveci.com/tags/design-patterns/</link>
+    <link>https://fatmakahveci.github.io/tags/design-patterns/</link>
     <description>Recent content in design patterns on Fatma Kahveci</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fatmakahveci.com/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://fatmakahveci.github.io/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design patterns</title>
-      <link>https://fatmakahveci.com/python-note/design_patterns/</link>
+      <link>https://fatmakahveci.github.io/python-note/design_patterns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/design_patterns/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/design_patterns/</guid>
       <description>Updated by Fatma, Apr 06, 2023.</description>
     </item>
     
     <item>
       <title>Design Patterns in Typescript</title>
-      <link>https://fatmakahveci.com/frontend-note/design_patterns_in_typescript/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/design_patterns_in_typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/design_patterns_in_typescript/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/design_patterns_in_typescript/</guid>
       <description>Updated by Fatma, Aug 14, 2023.</description>
     </item>
     
