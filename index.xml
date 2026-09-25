@@ -2,2014 +2,2014 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fatma Kahveci</title>
-    <link>https://fatmakahveci.com/</link>
+    <link>https://fatmakahveci.github.io/</link>
     <description>Recent content on Fatma Kahveci</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fatmakahveci.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://fatmakahveci.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activating a Conda environment in your Dockerfile</title>
-      <link>https://fatmakahveci.com/python-note/activating_a_conda_environment_in_your_dockerfile/</link>
+      <link>https://fatmakahveci.github.io/python-note/activating_a_conda_environment_in_your_dockerfile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/activating_a_conda_environment_in_your_dockerfile/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/activating_a_conda_environment_in_your_dockerfile/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Amsterdam</title>
-      <link>https://fatmakahveci.com/travel-note/amsterdam/</link>
+      <link>https://fatmakahveci.github.io/travel-note/amsterdam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/amsterdam/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/amsterdam/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Ankara</title>
-      <link>https://fatmakahveci.com/travel-note/ankara/</link>
+      <link>https://fatmakahveci.github.io/travel-note/ankara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/ankara/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/ankara/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Antalya</title>
-      <link>https://fatmakahveci.com/travel-note/antalya/</link>
+      <link>https://fatmakahveci.github.io/travel-note/antalya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/antalya/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/antalya/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Apache HBase</title>
-      <link>https://fatmakahveci.com/coding-note/apache_hbase/</link>
+      <link>https://fatmakahveci.github.io/coding-note/apache_hbase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/apache_hbase/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/apache_hbase/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>args and kwargs</title>
-      <link>https://fatmakahveci.com/python-note/args_kwargs/</link>
+      <link>https://fatmakahveci.github.io/python-note/args_kwargs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/args_kwargs/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/args_kwargs/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>atexit - Exit handlers</title>
-      <link>https://fatmakahveci.com/python-note/atexit/</link>
+      <link>https://fatmakahveci.github.io/python-note/atexit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/atexit/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/atexit/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Atomic habits</title>
-      <link>https://fatmakahveci.com/reading-note/atomic_habits/</link>
+      <link>https://fatmakahveci.github.io/reading-note/atomic_habits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/reading-note/atomic_habits/</guid>
+      <guid>https://fatmakahveci.github.io/reading-note/atomic_habits/</guid>
       <description>Updated by Fatma, Apr 04, 2023.</description>
     </item>
     
     <item>
       <title>AWS Certified Solutions Architect - Associate (SAA-C03)</title>
-      <link>https://fatmakahveci.com/aws-note/certified_solutions_architect-associate/</link>
+      <link>https://fatmakahveci.github.io/aws-note/certified_solutions_architect-associate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/aws-note/certified_solutions_architect-associate/</guid>
+      <guid>https://fatmakahveci.github.io/aws-note/certified_solutions_architect-associate/</guid>
       <description>Updated by Fatma, Aug 04, 2023.</description>
     </item>
     
     <item>
       <title>Bacterial Strain Identification</title>
-      <link>https://fatmakahveci.com/bioinformatics-note/bacterial_strain_identification/</link>
+      <link>https://fatmakahveci.github.io/bioinformatics-note/bacterial_strain_identification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/bioinformatics-note/bacterial_strain_identification/</guid>
+      <guid>https://fatmakahveci.github.io/bioinformatics-note/bacterial_strain_identification/</guid>
       <description>Here is an intro to bacterial strain identification.</description>
     </item>
     
     <item>
       <title>Balikesir</title>
-      <link>https://fatmakahveci.com/travel-note/balikesir/</link>
+      <link>https://fatmakahveci.github.io/travel-note/balikesir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/balikesir/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/balikesir/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Barcelona</title>
-      <link>https://fatmakahveci.com/travel-note/barcelona/</link>
+      <link>https://fatmakahveci.github.io/travel-note/barcelona/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/barcelona/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/barcelona/</guid>
       <description>Updated by Fatma, Jun 12, 2023.</description>
     </item>
     
     <item>
       <title>Bash for beginners</title>
-      <link>https://fatmakahveci.com/bash-note/bash/</link>
+      <link>https://fatmakahveci.github.io/bash-note/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/bash-note/bash/</guid>
+      <guid>https://fatmakahveci.github.io/bash-note/bash/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Berat</title>
-      <link>https://fatmakahveci.com/travel-note/berat/</link>
+      <link>https://fatmakahveci.github.io/travel-note/berat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/berat/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/berat/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Berlin</title>
-      <link>https://fatmakahveci.com/travel-note/berlin/</link>
+      <link>https://fatmakahveci.github.io/travel-note/berlin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/berlin/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/berlin/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Binary tree traversal</title>
-      <link>https://fatmakahveci.com/coding-note/binary_tree_traversal/</link>
+      <link>https://fatmakahveci.github.io/coding-note/binary_tree_traversal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/binary_tree_traversal/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/binary_tree_traversal/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Bordeaux</title>
-      <link>https://fatmakahveci.com/travel-note/bordeaux/</link>
+      <link>https://fatmakahveci.github.io/travel-note/bordeaux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/bordeaux/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/bordeaux/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Brno</title>
-      <link>https://fatmakahveci.com/travel-note/czechia/</link>
+      <link>https://fatmakahveci.github.io/travel-note/czechia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/czechia/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/czechia/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Brugge</title>
-      <link>https://fatmakahveci.com/travel-note/brugge/</link>
+      <link>https://fatmakahveci.github.io/travel-note/brugge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/brugge/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/brugge/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Brussels</title>
-      <link>https://fatmakahveci.com/travel-note/brussels/</link>
+      <link>https://fatmakahveci.github.io/travel-note/brussels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/brussels/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/brussels/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Buffers</title>
-      <link>https://fatmakahveci.com/python-note/buffers/</link>
+      <link>https://fatmakahveci.github.io/python-note/buffers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/buffers/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/buffers/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Built-in functions</title>
-      <link>https://fatmakahveci.com/python-note/built-in_functions/</link>
+      <link>https://fatmakahveci.github.io/python-note/built-in_functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/built-in_functions/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/built-in_functions/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Callable types</title>
-      <link>https://fatmakahveci.com/python-note/callable_types/</link>
+      <link>https://fatmakahveci.github.io/python-note/callable_types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/callable_types/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/callable_types/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Callback function</title>
-      <link>https://fatmakahveci.com/python-note/callback_function/</link>
+      <link>https://fatmakahveci.github.io/python-note/callback_function/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/callback_function/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/callback_function/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Cambridge</title>
-      <link>https://fatmakahveci.com/travel-note/cambridge/</link>
+      <link>https://fatmakahveci.github.io/travel-note/cambridge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/cambridge/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/cambridge/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Canakkale</title>
-      <link>https://fatmakahveci.com/travel-note/canakkale/</link>
+      <link>https://fatmakahveci.github.io/travel-note/canakkale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/canakkale/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/canakkale/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Canterbury</title>
-      <link>https://fatmakahveci.com/travel-note/canterbury/</link>
+      <link>https://fatmakahveci.github.io/travel-note/canterbury/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/canterbury/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/canterbury/</guid>
       <description>Updated by Fatma, Jun 15, 2023.</description>
     </item>
     
     <item>
       <title>Cappadocia</title>
-      <link>https://fatmakahveci.com/travel-note/cappadocia/</link>
+      <link>https://fatmakahveci.github.io/travel-note/cappadocia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/cappadocia/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/cappadocia/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Carcassonne</title>
-      <link>https://fatmakahveci.com/travel-note/carcassonne/</link>
+      <link>https://fatmakahveci.github.io/travel-note/carcassonne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/carcassonne/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/carcassonne/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Class</title>
-      <link>https://fatmakahveci.com/python-note/class/</link>
+      <link>https://fatmakahveci.github.io/python-note/class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/class/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/class/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Closure</title>
-      <link>https://fatmakahveci.com/python-note/closure/</link>
+      <link>https://fatmakahveci.github.io/python-note/closure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/closure/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/closure/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Collections</title>
-      <link>https://fatmakahveci.com/python-note/collections/</link>
+      <link>https://fatmakahveci.github.io/python-note/collections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/collections/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/collections/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Cologne</title>
-      <link>https://fatmakahveci.com/travel-note/cologne/</link>
+      <link>https://fatmakahveci.github.io/travel-note/cologne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/cologne/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/cologne/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Combinatorial search</title>
-      <link>https://fatmakahveci.com/python-note/combinatorial_search/</link>
+      <link>https://fatmakahveci.github.io/python-note/combinatorial_search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/combinatorial_search/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/combinatorial_search/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Complete binary tree</title>
-      <link>https://fatmakahveci.com/python-note/complete_binary_tree/</link>
+      <link>https://fatmakahveci.github.io/python-note/complete_binary_tree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/complete_binary_tree/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/complete_binary_tree/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Comprehensions</title>
-      <link>https://fatmakahveci.com/python-note/comprehensions/</link>
+      <link>https://fatmakahveci.github.io/python-note/comprehensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/comprehensions/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/comprehensions/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Concurrency</title>
-      <link>https://fatmakahveci.com/coding-note/concurrency/</link>
+      <link>https://fatmakahveci.github.io/coding-note/concurrency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/concurrency/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/concurrency/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Concurrency</title>
-      <link>https://fatmakahveci.com/python-note/concurrency/</link>
+      <link>https://fatmakahveci.github.io/python-note/concurrency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/concurrency/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/concurrency/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Conda</title>
-      <link>https://fatmakahveci.com/python-note/conda/</link>
+      <link>https://fatmakahveci.github.io/python-note/conda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/conda/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/conda/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Content delivery network (CDN)</title>
-      <link>https://fatmakahveci.com/coding-note/cdn/</link>
+      <link>https://fatmakahveci.github.io/coding-note/cdn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/cdn/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/cdn/</guid>
       <description>Updated by Fatma, May 31, 2023.</description>
     </item>
     
     <item>
       <title>Context Managers and the `with` statement</title>
-      <link>https://fatmakahveci.com/python-note/context_manager/</link>
+      <link>https://fatmakahveci.github.io/python-note/context_manager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/context_manager/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/context_manager/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Conventions</title>
-      <link>https://fatmakahveci.com/python-note/conventions/</link>
+      <link>https://fatmakahveci.github.io/python-note/conventions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/conventions/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/conventions/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Copy</title>
-      <link>https://fatmakahveci.com/python-note/copy/</link>
+      <link>https://fatmakahveci.github.io/python-note/copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/copy/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/copy/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Cordoba</title>
-      <link>https://fatmakahveci.com/travel-note/cordoba/</link>
+      <link>https://fatmakahveci.github.io/travel-note/cordoba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/cordoba/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/cordoba/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Covid19</title>
-      <link>https://fatmakahveci.com/bioinformatics-note/map_covid/</link>
+      <link>https://fatmakahveci.github.io/bioinformatics-note/map_covid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/bioinformatics-note/map_covid/</guid>
+      <guid>https://fatmakahveci.github.io/bioinformatics-note/map_covid/</guid>
       <description>Here is the number of samples for each city in Turkey.</description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>https://fatmakahveci.com/frontend-note/css/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/css/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/css/</guid>
       <description>Updated by Fatma, May 31, 2023.</description>
     </item>
     
     <item>
       <title>Data classes</title>
-      <link>https://fatmakahveci.com/python-note/data_classes/</link>
+      <link>https://fatmakahveci.github.io/python-note/data_classes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/data_classes/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/data_classes/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Database</title>
-      <link>https://fatmakahveci.com/coding-note/database/</link>
+      <link>https://fatmakahveci.github.io/coding-note/database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/database/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/database/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>datetime</title>
-      <link>https://fatmakahveci.com/python-note/datetime/</link>
+      <link>https://fatmakahveci.github.io/python-note/datetime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/datetime/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/datetime/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Decorator</title>
-      <link>https://fatmakahveci.com/python-note/decorator/</link>
+      <link>https://fatmakahveci.github.io/python-note/decorator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/decorator/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/decorator/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Deep work</title>
-      <link>https://fatmakahveci.com/reading-note/deep_work/</link>
+      <link>https://fatmakahveci.github.io/reading-note/deep_work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/reading-note/deep_work/</guid>
+      <guid>https://fatmakahveci.github.io/reading-note/deep_work/</guid>
       <description>Updated by Fatma, Apr 04, 2023.</description>
     </item>
     
     <item>
       <title>Descriptor</title>
-      <link>https://fatmakahveci.com/python-note/descriptor/</link>
+      <link>https://fatmakahveci.github.io/python-note/descriptor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/descriptor/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/descriptor/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Design patterns</title>
-      <link>https://fatmakahveci.com/python-note/design_patterns/</link>
+      <link>https://fatmakahveci.github.io/python-note/design_patterns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/design_patterns/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/design_patterns/</guid>
       <description>Updated by Fatma, Apr 06, 2023.</description>
     </item>
     
     <item>
       <title>Design Patterns in Typescript</title>
-      <link>https://fatmakahveci.com/frontend-note/design_patterns_in_typescript/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/design_patterns_in_typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/design_patterns_in_typescript/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/design_patterns_in_typescript/</guid>
       <description>Updated by Fatma, Aug 14, 2023.</description>
     </item>
     
     <item>
       <title>Dictionary</title>
-      <link>https://fatmakahveci.com/python-note/dictionary/</link>
+      <link>https://fatmakahveci.github.io/python-note/dictionary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/dictionary/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/dictionary/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Distributed computing frameworks</title>
-      <link>https://fatmakahveci.com/python-note/distributed_computing_frameworks/</link>
+      <link>https://fatmakahveci.github.io/python-note/distributed_computing_frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/distributed_computing_frameworks/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/distributed_computing_frameworks/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Django for beginners</title>
-      <link>https://fatmakahveci.com/backend-note/django/</link>
+      <link>https://fatmakahveci.github.io/backend-note/django/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/backend-note/django/</guid>
+      <guid>https://fatmakahveci.github.io/backend-note/django/</guid>
       <description>Updated by Fatma, Aug 23, 2023.</description>
     </item>
     
     <item>
       <title>Docopt</title>
-      <link>https://fatmakahveci.com/python-note/docopt/</link>
+      <link>https://fatmakahveci.github.io/python-note/docopt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/docopt/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/docopt/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>docstrings</title>
-      <link>https://fatmakahveci.com/python-note/docstrings/</link>
+      <link>https://fatmakahveci.github.io/python-note/docstrings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/docstrings/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/docstrings/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Dogpile effect</title>
-      <link>https://fatmakahveci.com/coding-note/dog_pile_effect/</link>
+      <link>https://fatmakahveci.github.io/coding-note/dog_pile_effect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/dog_pile_effect/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/dog_pile_effect/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Duck typing</title>
-      <link>https://fatmakahveci.com/python-note/duck_typing/</link>
+      <link>https://fatmakahveci.github.io/python-note/duck_typing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/duck_typing/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/duck_typing/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Durrës</title>
-      <link>https://fatmakahveci.com/travel-note/durres/</link>
+      <link>https://fatmakahveci.github.io/travel-note/durres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/durres/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/durres/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Dusseldorf</title>
-      <link>https://fatmakahveci.com/travel-note/dusseldorf/</link>
+      <link>https://fatmakahveci.github.io/travel-note/dusseldorf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/dusseldorf/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/dusseldorf/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Dynamic Programming (DP)</title>
-      <link>https://fatmakahveci.com/coding-note/dynamic_programming/</link>
+      <link>https://fatmakahveci.github.io/coding-note/dynamic_programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/dynamic_programming/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/dynamic_programming/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Edinburgh</title>
-      <link>https://fatmakahveci.com/travel-note/edinburgh/</link>
+      <link>https://fatmakahveci.github.io/travel-note/edinburgh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/edinburgh/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/edinburgh/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Efficiency</title>
-      <link>https://fatmakahveci.com/python-note/efficiency/</link>
+      <link>https://fatmakahveci.github.io/python-note/efficiency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/efficiency/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/efficiency/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Encapsulation</title>
-      <link>https://fatmakahveci.com/python-note/encapsulation/</link>
+      <link>https://fatmakahveci.github.io/python-note/encapsulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/encapsulation/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/encapsulation/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>English-Spanish Bioinformatics Dictionary</title>
-      <link>https://fatmakahveci.com/bioinformatics-note/dict_en_es/</link>
+      <link>https://fatmakahveci.github.io/bioinformatics-note/dict_en_es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/bioinformatics-note/dict_en_es/</guid>
+      <guid>https://fatmakahveci.github.io/bioinformatics-note/dict_en_es/</guid>
       <description>Here is an English-Spanish bioinformatics dictionary.</description>
     </item>
     
     <item>
       <title>Bioinformatics Terminology Index</title>
-      <link>https://fatmakahveci.com/bioinformatics-note/dict_en_tr/</link>
+      <link>https://fatmakahveci.github.io/bioinformatics-note/dict_en_tr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/bioinformatics-note/dict_en_tr/</guid>
+      <guid>https://fatmakahveci.github.io/bioinformatics-note/dict_en_tr/</guid>
       <description>A curated English index of frequently used bioinformatics terms.</description>
     </item>
     
     <item>
       <title>Ericeira</title>
-      <link>https://fatmakahveci.com/travel-note/ericeira/</link>
+      <link>https://fatmakahveci.github.io/travel-note/ericeira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/ericeira/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/ericeira/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Eskisehir</title>
-      <link>https://fatmakahveci.com/travel-note/eskisehir/</link>
+      <link>https://fatmakahveci.github.io/travel-note/eskisehir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/eskisehir/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/eskisehir/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Exceptions</title>
-      <link>https://fatmakahveci.com/python-note/exceptions/</link>
+      <link>https://fatmakahveci.github.io/python-note/exceptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/exceptions/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/exceptions/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>f-strings</title>
-      <link>https://fatmakahveci.com/python-note/f-strings/</link>
+      <link>https://fatmakahveci.github.io/python-note/f-strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/f-strings/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/f-strings/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Fibonacci</title>
-      <link>https://fatmakahveci.com/python-note/fibonacci/</link>
+      <link>https://fatmakahveci.github.io/python-note/fibonacci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/fibonacci/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/fibonacci/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Files</title>
-      <link>https://fatmakahveci.com/python-note/files/</link>
+      <link>https://fatmakahveci.github.io/python-note/files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/files/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/files/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Finite State Machine (FSM)</title>
-      <link>https://fatmakahveci.com/python-note/finite_state_machine/</link>
+      <link>https://fatmakahveci.github.io/python-note/finite_state_machine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/finite_state_machine/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/finite_state_machine/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Florence</title>
-      <link>https://fatmakahveci.com/travel-note/florence/</link>
+      <link>https://fatmakahveci.github.io/travel-note/florence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/florence/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/florence/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Functions</title>
-      <link>https://fatmakahveci.com/python-note/functions/</link>
+      <link>https://fatmakahveci.github.io/python-note/functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/functions/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/functions/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>functools</title>
-      <link>https://fatmakahveci.com/python-note/functools/</link>
+      <link>https://fatmakahveci.github.io/python-note/functools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/functools/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/functools/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Garbage collection</title>
-      <link>https://fatmakahveci.com/python-note/garbage_collection/</link>
+      <link>https://fatmakahveci.github.io/python-note/garbage_collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/garbage_collection/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/garbage_collection/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Gene transfer mechanisms in bacteria</title>
-      <link>https://fatmakahveci.com/bioinformatics-note/gene_transfer_in_bacteria/</link>
+      <link>https://fatmakahveci.github.io/bioinformatics-note/gene_transfer_in_bacteria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/bioinformatics-note/gene_transfer_in_bacteria/</guid>
+      <guid>https://fatmakahveci.github.io/bioinformatics-note/gene_transfer_in_bacteria/</guid>
       <description>Bacterial gene transfer differs from eukaryotes. Bacteria can transfer their genes both vertically and horizontally.</description>
     </item>
     
     <item>
       <title>Generator</title>
-      <link>https://fatmakahveci.com/python-note/generator/</link>
+      <link>https://fatmakahveci.github.io/python-note/generator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/generator/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/generator/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>glob</title>
-      <link>https://fatmakahveci.com/python-note/glob/</link>
+      <link>https://fatmakahveci.github.io/python-note/glob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/glob/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/glob/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Go for beginners</title>
-      <link>https://fatmakahveci.com/go-note/go/</link>
+      <link>https://fatmakahveci.github.io/go-note/go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/go-note/go/</guid>
+      <guid>https://fatmakahveci.github.io/go-note/go/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Google BigTable</title>
-      <link>https://fatmakahveci.com/coding-note/google_bigtable/</link>
+      <link>https://fatmakahveci.github.io/coding-note/google_bigtable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/google_bigtable/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/google_bigtable/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Granada</title>
-      <link>https://fatmakahveci.com/travel-note/granada/</link>
+      <link>https://fatmakahveci.github.io/travel-note/granada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/granada/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/granada/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Graph</title>
-      <link>https://fatmakahveci.com/python-note/graph/</link>
+      <link>https://fatmakahveci.github.io/python-note/graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/graph/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/graph/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>GUI</title>
-      <link>https://fatmakahveci.com/python-note/gui/</link>
+      <link>https://fatmakahveci.github.io/python-note/gui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/gui/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/gui/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Hashing</title>
-      <link>https://fatmakahveci.com/python-note/hashing/</link>
+      <link>https://fatmakahveci.github.io/python-note/hashing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/hashing/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/hashing/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Heap</title>
-      <link>https://fatmakahveci.com/python-note/heap/</link>
+      <link>https://fatmakahveci.github.io/python-note/heap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/heap/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/heap/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Horizontal bar chart</title>
-      <link>https://fatmakahveci.com/python-note/horizontal_bar_chart/</link>
+      <link>https://fatmakahveci.github.io/python-note/horizontal_bar_chart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/horizontal_bar_chart/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/horizontal_bar_chart/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://fatmakahveci.com/frontend-note/html/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/html/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/html/</guid>
       <description>Updated by Fatma, May 25, 2023.</description>
     </item>
     
     <item>
       <title>import</title>
-      <link>https://fatmakahveci.com/python-note/import/</link>
+      <link>https://fatmakahveci.github.io/python-note/import/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/import/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/import/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Inheritance</title>
-      <link>https://fatmakahveci.com/python-note/inheritance/</link>
+      <link>https://fatmakahveci.github.io/python-note/inheritance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/inheritance/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/inheritance/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>inspect</title>
-      <link>https://fatmakahveci.com/python-note/inspect/</link>
+      <link>https://fatmakahveci.github.io/python-note/inspect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/inspect/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/inspect/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>intenum</title>
-      <link>https://fatmakahveci.com/python-note/intenum/</link>
+      <link>https://fatmakahveci.github.io/python-note/intenum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/intenum/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/intenum/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>IPython</title>
-      <link>https://fatmakahveci.com/python-note/ipython/</link>
+      <link>https://fatmakahveci.github.io/python-note/ipython/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/ipython/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/ipython/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Istanbul</title>
-      <link>https://fatmakahveci.com/travel-note/istanbul/</link>
+      <link>https://fatmakahveci.github.io/travel-note/istanbul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/istanbul/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/istanbul/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>iterator</title>
-      <link>https://fatmakahveci.com/python-note/iterator/</link>
+      <link>https://fatmakahveci.github.io/python-note/iterator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/iterator/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/iterator/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>itertools</title>
-      <link>https://fatmakahveci.com/python-note/itertools/</link>
+      <link>https://fatmakahveci.github.io/python-note/itertools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/itertools/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/itertools/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Izmir</title>
-      <link>https://fatmakahveci.com/travel-note/izmir/</link>
+      <link>https://fatmakahveci.github.io/travel-note/izmir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/izmir/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/izmir/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Jaccard Similarity</title>
-      <link>https://fatmakahveci.com/coding-note/jaccard_similarity/</link>
+      <link>https://fatmakahveci.github.io/coding-note/jaccard_similarity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/jaccard_similarity/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/jaccard_similarity/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://fatmakahveci.com/frontend-note/javascript/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/javascript/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/javascript/</guid>
       <description>Updated by Fatma, Jul 25, 2023.</description>
     </item>
     
     <item>
       <title>Jupyter</title>
-      <link>https://fatmakahveci.com/python-note/jupyter/</link>
+      <link>https://fatmakahveci.github.io/python-note/jupyter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/jupyter/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/jupyter/</guid>
       <description>Updated by Fatma, Mar 31, 2023.</description>
     </item>
     
     <item>
       <title>Kent</title>
-      <link>https://fatmakahveci.com/travel-note/kent/</link>
+      <link>https://fatmakahveci.github.io/travel-note/kent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/kent/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/kent/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Keyboard controller</title>
-      <link>https://fatmakahveci.com/python-note/keyboard_controller/</link>
+      <link>https://fatmakahveci.github.io/python-note/keyboard_controller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/keyboard_controller/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/keyboard_controller/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Kiev</title>
-      <link>https://fatmakahveci.com/travel-note/kiev/</link>
+      <link>https://fatmakahveci.github.io/travel-note/kiev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/kiev/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/kiev/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Knapsack</title>
-      <link>https://fatmakahveci.com/python-note/knapsack/</link>
+      <link>https://fatmakahveci.github.io/python-note/knapsack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/knapsack/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/knapsack/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Kopenhagen</title>
-      <link>https://fatmakahveci.com/travel-note/denmark/</link>
+      <link>https://fatmakahveci.github.io/travel-note/denmark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/denmark/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/denmark/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Krakow</title>
-      <link>https://fatmakahveci.com/travel-note/krakow/</link>
+      <link>https://fatmakahveci.github.io/travel-note/krakow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/krakow/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/krakow/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Lambda</title>
-      <link>https://fatmakahveci.com/python-note/lambda/</link>
+      <link>https://fatmakahveci.github.io/python-note/lambda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/lambda/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/lambda/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Limitless</title>
-      <link>https://fatmakahveci.com/reading-note/limitless/</link>
+      <link>https://fatmakahveci.github.io/reading-note/limitless/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/reading-note/limitless/</guid>
+      <guid>https://fatmakahveci.github.io/reading-note/limitless/</guid>
       <description>Updated by Fatma, Apr 04, 2023.</description>
     </item>
     
     <item>
       <title>Linked Lists</title>
-      <link>https://fatmakahveci.com/python-note/linked_lists/</link>
+      <link>https://fatmakahveci.github.io/python-note/linked_lists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/linked_lists/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/linked_lists/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Lisbon</title>
-      <link>https://fatmakahveci.com/travel-note/lisbon/</link>
+      <link>https://fatmakahveci.github.io/travel-note/lisbon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/lisbon/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/lisbon/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Lisse</title>
-      <link>https://fatmakahveci.com/travel-note/lisse/</link>
+      <link>https://fatmakahveci.github.io/travel-note/lisse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/lisse/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/lisse/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>London</title>
-      <link>https://fatmakahveci.com/travel-note/london/</link>
+      <link>https://fatmakahveci.github.io/travel-note/london/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/london/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/london/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Loops</title>
-      <link>https://fatmakahveci.com/python-note/loops/</link>
+      <link>https://fatmakahveci.github.io/python-note/loops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/loops/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/loops/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Los Angeles</title>
-      <link>https://fatmakahveci.com/travel-note/los_angeles/</link>
+      <link>https://fatmakahveci.github.io/travel-note/los_angeles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/los_angeles/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/los_angeles/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Madrid</title>
-      <link>https://fatmakahveci.com/travel-note/madrid/</link>
+      <link>https://fatmakahveci.github.io/travel-note/madrid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/madrid/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/madrid/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Malaga</title>
-      <link>https://fatmakahveci.com/travel-note/malaga/</link>
+      <link>https://fatmakahveci.github.io/travel-note/malaga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/malaga/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/malaga/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Malmö</title>
-      <link>https://fatmakahveci.com/travel-note/malmo/</link>
+      <link>https://fatmakahveci.github.io/travel-note/malmo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/malmo/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/malmo/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>matplotlib</title>
-      <link>https://fatmakahveci.com/python-note/matplotlib/</link>
+      <link>https://fatmakahveci.github.io/python-note/matplotlib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/matplotlib/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/matplotlib/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Memory management</title>
-      <link>https://fatmakahveci.com/python-note/memory_management/</link>
+      <link>https://fatmakahveci.github.io/python-note/memory_management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/memory_management/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/memory_management/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Methods</title>
-      <link>https://fatmakahveci.com/python-note/methods/</link>
+      <link>https://fatmakahveci.github.io/python-note/methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/methods/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/methods/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Microservice</title>
-      <link>https://fatmakahveci.com/python-note/microservice/</link>
+      <link>https://fatmakahveci.github.io/python-note/microservice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/microservice/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/microservice/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Modules</title>
-      <link>https://fatmakahveci.com/python-note/modules/</link>
+      <link>https://fatmakahveci.github.io/python-note/modules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/modules/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/modules/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>MongoDB</title>
-      <link>https://fatmakahveci.com/coding-note/mongodb/</link>
+      <link>https://fatmakahveci.github.io/coding-note/mongodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/mongodb/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/mongodb/</guid>
       <description>Updated by Fatma, Oct 13, 2023.</description>
     </item>
     
     <item>
       <title>Moscow</title>
-      <link>https://fatmakahveci.com/travel-note/moscow/</link>
+      <link>https://fatmakahveci.github.io/travel-note/moscow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/moscow/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/moscow/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Mugla</title>
-      <link>https://fatmakahveci.com/travel-note/mugla/</link>
+      <link>https://fatmakahveci.github.io/travel-note/mugla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/mugla/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/mugla/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Munich</title>
-      <link>https://fatmakahveci.com/travel-note/munich/</link>
+      <link>https://fatmakahveci.github.io/travel-note/munich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/munich/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/munich/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Namespace</title>
-      <link>https://fatmakahveci.com/python-note/namespace/</link>
+      <link>https://fatmakahveci.github.io/python-note/namespace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/namespace/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/namespace/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Naming variables</title>
-      <link>https://fatmakahveci.com/coding-note/naming_variables/</link>
+      <link>https://fatmakahveci.github.io/coding-note/naming_variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/naming_variables/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/naming_variables/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Naples</title>
-      <link>https://fatmakahveci.com/travel-note/naples/</link>
+      <link>https://fatmakahveci.github.io/travel-note/naples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/naples/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/naples/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Network</title>
-      <link>https://fatmakahveci.com/coding-note/network/</link>
+      <link>https://fatmakahveci.github.io/coding-note/network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/network/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/network/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>New York</title>
-      <link>https://fatmakahveci.com/travel-note/new_york/</link>
+      <link>https://fatmakahveci.github.io/travel-note/new_york/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/new_york/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/new_york/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Next.js</title>
-      <link>https://fatmakahveci.com/frontend-note/next_js/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/next_js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/next_js/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/next_js/</guid>
       <description>Updated by Fatma, Jun 13, 2023.</description>
     </item>
     
     <item>
       <title>NumPy</title>
-      <link>https://fatmakahveci.com/python-note/numpy/</link>
+      <link>https://fatmakahveci.github.io/python-note/numpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/numpy/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/numpy/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Object serialization</title>
-      <link>https://fatmakahveci.com/python-note/object_serialization/</link>
+      <link>https://fatmakahveci.github.io/python-note/object_serialization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/object_serialization/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/object_serialization/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Object-Oriented Programming (OOP)</title>
-      <link>https://fatmakahveci.com/python-note/oop/</link>
+      <link>https://fatmakahveci.github.io/python-note/oop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/oop/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/oop/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Objects</title>
-      <link>https://fatmakahveci.com/python-note/objects/</link>
+      <link>https://fatmakahveci.github.io/python-note/objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/objects/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/objects/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Operators</title>
-      <link>https://fatmakahveci.com/python-note/operators/</link>
+      <link>https://fatmakahveci.github.io/python-note/operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/operators/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/operators/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Optimize and solve technique</title>
-      <link>https://fatmakahveci.com/coding-note/optimize_and_solve_technique/</link>
+      <link>https://fatmakahveci.github.io/coding-note/optimize_and_solve_technique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/optimize_and_solve_technique/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/optimize_and_solve_technique/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>OrderedDict</title>
-      <link>https://fatmakahveci.com/python-note/ordereddict/</link>
+      <link>https://fatmakahveci.github.io/python-note/ordereddict/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/ordereddict/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/ordereddict/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>os (operating system)</title>
-      <link>https://fatmakahveci.com/python-note/os/</link>
+      <link>https://fatmakahveci.github.io/python-note/os/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/os/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/os/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Oxford</title>
-      <link>https://fatmakahveci.com/travel-note/oxford/</link>
+      <link>https://fatmakahveci.github.io/travel-note/oxford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/oxford/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/oxford/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>package</title>
-      <link>https://fatmakahveci.com/python-note/package/</link>
+      <link>https://fatmakahveci.github.io/python-note/package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/package/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/package/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>pandas</title>
-      <link>https://fatmakahveci.com/python-note/pandas/</link>
+      <link>https://fatmakahveci.github.io/python-note/pandas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/pandas/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/pandas/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Parallel programming</title>
-      <link>https://fatmakahveci.com/python-note/parallel_programming/</link>
+      <link>https://fatmakahveci.github.io/python-note/parallel_programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/parallel_programming/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/parallel_programming/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Paris</title>
-      <link>https://fatmakahveci.com/travel-note/paris/</link>
+      <link>https://fatmakahveci.github.io/travel-note/paris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/paris/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/paris/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Pep (Python Enhancement Proposals)</title>
-      <link>https://fatmakahveci.com/python-note/pep/</link>
+      <link>https://fatmakahveci.github.io/python-note/pep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/pep/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/pep/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Pipenv</title>
-      <link>https://fatmakahveci.com/python-note/pipenv/</link>
+      <link>https://fatmakahveci.github.io/python-note/pipenv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/pipenv/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/pipenv/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Pisa</title>
-      <link>https://fatmakahveci.com/travel-note/pisa/</link>
+      <link>https://fatmakahveci.github.io/travel-note/pisa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/pisa/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/pisa/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Polymorphism</title>
-      <link>https://fatmakahveci.com/python-note/polymorphism/</link>
+      <link>https://fatmakahveci.github.io/python-note/polymorphism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/polymorphism/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/polymorphism/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Pompei</title>
-      <link>https://fatmakahveci.com/travel-note/pompei/</link>
+      <link>https://fatmakahveci.github.io/travel-note/pompei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/pompei/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/pompei/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Positano</title>
-      <link>https://fatmakahveci.com/travel-note/positano/</link>
+      <link>https://fatmakahveci.github.io/travel-note/positano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/positano/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/positano/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Procedural Programming</title>
-      <link>https://fatmakahveci.com/coding-note/procedural_programming/</link>
+      <link>https://fatmakahveci.github.io/coding-note/procedural_programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/procedural_programming/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/procedural_programming/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Property</title>
-      <link>https://fatmakahveci.com/python-note/property/</link>
+      <link>https://fatmakahveci.github.io/python-note/property/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/property/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/property/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Pydash</title>
-      <link>https://fatmakahveci.com/python-note/pydash/</link>
+      <link>https://fatmakahveci.github.io/python-note/pydash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/pydash/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/pydash/</guid>
       <description>Updated by Fatma, Mar 29, 2023.</description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://fatmakahveci.com/python-note/python/</link>
+      <link>https://fatmakahveci.github.io/python-note/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/python/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/python/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Python libraries and frameworks</title>
-      <link>https://fatmakahveci.com/python-note/libraries/</link>
+      <link>https://fatmakahveci.github.io/python-note/libraries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/libraries/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/libraries/</guid>
       <description>Updated by Fatma, Apr 03, 2023.</description>
     </item>
     
     <item>
       <title>Queue</title>
-      <link>https://fatmakahveci.com/python-note/queue/</link>
+      <link>https://fatmakahveci.github.io/python-note/queue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/queue/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/queue/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>random</title>
-      <link>https://fatmakahveci.com/python-note/random/</link>
+      <link>https://fatmakahveci.github.io/python-note/random/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/random/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/random/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Randomized Algorithms</title>
-      <link>https://fatmakahveci.com/coding-note/randomized_algorithms/</link>
+      <link>https://fatmakahveci.github.io/coding-note/randomized_algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/randomized_algorithms/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/randomized_algorithms/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://fatmakahveci.com/frontend-note/react/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/react/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/react/</guid>
       <description>Updated by Fatma, Jul 25, 2023.</description>
     </item>
     
     <item>
       <title>Recurrence relations</title>
-      <link>https://fatmakahveci.com/coding-note/recurrence/</link>
+      <link>https://fatmakahveci.github.io/coding-note/recurrence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/recurrence/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/recurrence/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Recursion</title>
-      <link>https://fatmakahveci.com/python-note/recursion/</link>
+      <link>https://fatmakahveci.github.io/python-note/recursion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/recursion/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/recursion/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Redux</title>
-      <link>https://fatmakahveci.com/frontend-note/redux/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/redux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/redux/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/redux/</guid>
       <description>Updated by Fatma, Sep 21, 2023.</description>
     </item>
     
     <item>
       <title>Regex</title>
-      <link>https://fatmakahveci.com/python-note/regex/</link>
+      <link>https://fatmakahveci.github.io/python-note/regex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/regex/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/regex/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Responsive design</title>
-      <link>https://fatmakahveci.com/frontend-note/responsive_design/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/responsive_design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/responsive_design/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/responsive_design/</guid>
       <description>Updated by Fatma, Jun 08, 2023.</description>
     </item>
     
     <item>
       <title>return statement</title>
-      <link>https://fatmakahveci.com/python-note/return_statement/</link>
+      <link>https://fatmakahveci.github.io/python-note/return_statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/return_statement/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/return_statement/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Riga</title>
-      <link>https://fatmakahveci.com/travel-note/riga/</link>
+      <link>https://fatmakahveci.github.io/travel-note/riga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/riga/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/riga/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Rome</title>
-      <link>https://fatmakahveci.com/travel-note/rome/</link>
+      <link>https://fatmakahveci.github.io/travel-note/rome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/rome/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/rome/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Rotterdam</title>
-      <link>https://fatmakahveci.com/travel-note/rotterdam/</link>
+      <link>https://fatmakahveci.github.io/travel-note/rotterdam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/rotterdam/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/rotterdam/</guid>
       <description>Updated by Fatma, Oct 14, 2023.</description>
     </item>
     
     <item>
       <title>Saint Petersburg</title>
-      <link>https://fatmakahveci.com/travel-note/saint_petersburg/</link>
+      <link>https://fatmakahveci.github.io/travel-note/saint_petersburg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/saint_petersburg/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/saint_petersburg/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Schaffhausen</title>
-      <link>https://fatmakahveci.com/travel-note/schaffhausen/</link>
+      <link>https://fatmakahveci.github.io/travel-note/schaffhausen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/schaffhausen/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/schaffhausen/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Scientific computing</title>
-      <link>https://fatmakahveci.com/python-note/scientific_computing/</link>
+      <link>https://fatmakahveci.github.io/python-note/scientific_computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/scientific_computing/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/scientific_computing/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Scope</title>
-      <link>https://fatmakahveci.com/coding-note/scope/</link>
+      <link>https://fatmakahveci.github.io/coding-note/scope/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/scope/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/scope/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>seaborn</title>
-      <link>https://fatmakahveci.com/python-note/seaborn/</link>
+      <link>https://fatmakahveci.github.io/python-note/seaborn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/seaborn/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/seaborn/</guid>
       <description>Updated by Fatma, Apr 06, 2023.</description>
     </item>
     
     <item>
       <title>Sequences</title>
-      <link>https://fatmakahveci.com/python-note/sequences/</link>
+      <link>https://fatmakahveci.github.io/python-note/sequences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/sequences/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/sequences/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Sevilla</title>
-      <link>https://fatmakahveci.com/travel-note/sevilla/</link>
+      <link>https://fatmakahveci.github.io/travel-note/sevilla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/sevilla/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/sevilla/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Siena</title>
-      <link>https://fatmakahveci.com/travel-note/siena/</link>
+      <link>https://fatmakahveci.github.io/travel-note/siena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/siena/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/siena/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Sinop</title>
-      <link>https://fatmakahveci.com/travel-note/sinop/</link>
+      <link>https://fatmakahveci.github.io/travel-note/sinop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/sinop/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/sinop/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Sintra</title>
-      <link>https://fatmakahveci.com/travel-note/sintra/</link>
+      <link>https://fatmakahveci.github.io/travel-note/sintra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/sintra/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/sintra/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Some common problems</title>
-      <link>https://fatmakahveci.com/coding-note/problems/</link>
+      <link>https://fatmakahveci.github.io/coding-note/problems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/problems/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/problems/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Some links for bioinformatics newbies</title>
-      <link>https://fatmakahveci.com/bioinformatics-note/links_for_bioinformatics_newbies/</link>
+      <link>https://fatmakahveci.github.io/bioinformatics-note/links_for_bioinformatics_newbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/bioinformatics-note/links_for_bioinformatics_newbies/</guid>
+      <guid>https://fatmakahveci.github.io/bioinformatics-note/links_for_bioinformatics_newbies/</guid>
       <description>When we dive into a field, we don&amp;rsquo;t know where to start. I hope these links will be helpful for bioinformatics newbies.</description>
     </item>
     
     <item>
       <title>Sorting</title>
-      <link>https://fatmakahveci.com/python-note/sorting/</link>
+      <link>https://fatmakahveci.github.io/python-note/sorting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/sorting/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/sorting/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Stack</title>
-      <link>https://fatmakahveci.com/python-note/stack/</link>
+      <link>https://fatmakahveci.github.io/python-note/stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/stack/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/stack/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Star expressions</title>
-      <link>https://fatmakahveci.com/python-note/star_expressions/</link>
+      <link>https://fatmakahveci.github.io/python-note/star_expressions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/star_expressions/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/star_expressions/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>statsmodels</title>
-      <link>https://fatmakahveci.com/python-note/statsmodels/</link>
+      <link>https://fatmakahveci.github.io/python-note/statsmodels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/statsmodels/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/statsmodels/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Strings</title>
-      <link>https://fatmakahveci.com/python-note/strings/</link>
+      <link>https://fatmakahveci.github.io/python-note/strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/strings/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/strings/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>sys</title>
-      <link>https://fatmakahveci.com/python-note/sys/</link>
+      <link>https://fatmakahveci.github.io/python-note/sys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/sys/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/sys/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Tail Recursion</title>
-      <link>https://fatmakahveci.com/python-note/tail_recursion/</link>
+      <link>https://fatmakahveci.github.io/python-note/tail_recursion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/tail_recursion/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/tail_recursion/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Tailwindcss</title>
-      <link>https://fatmakahveci.com/frontend-note/tailwindcss/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/tailwindcss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/tailwindcss/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/tailwindcss/</guid>
       <description>Updated by Fatma, May 25, 2023.</description>
     </item>
     
     <item>
       <title>Talinn</title>
-      <link>https://fatmakahveci.com/travel-note/estonia/</link>
+      <link>https://fatmakahveci.github.io/travel-note/estonia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/estonia/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/estonia/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>tempfile</title>
-      <link>https://fatmakahveci.com/python-note/tempfile/</link>
+      <link>https://fatmakahveci.github.io/python-note/tempfile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/tempfile/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/tempfile/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Text</title>
-      <link>https://fatmakahveci.com/python-note/test/</link>
+      <link>https://fatmakahveci.github.io/python-note/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/test/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/test/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>The efficiency of algorithms</title>
-      <link>https://fatmakahveci.com/coding-note/big_o/</link>
+      <link>https://fatmakahveci.github.io/coding-note/big_o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/big_o/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/big_o/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>The programmers brain</title>
-      <link>https://fatmakahveci.com/reading-note/the_programmers_brain/</link>
+      <link>https://fatmakahveci.github.io/reading-note/the_programmers_brain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/reading-note/the_programmers_brain/</guid>
+      <guid>https://fatmakahveci.github.io/reading-note/the_programmers_brain/</guid>
       <description>Updated by Fatma, Jul 04, 2023.</description>
     </item>
     
     <item>
       <title>The Zen of python</title>
-      <link>https://fatmakahveci.com/python-note/zen_of_python/</link>
+      <link>https://fatmakahveci.github.io/python-note/zen_of_python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/zen_of_python/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/zen_of_python/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Thread</title>
-      <link>https://fatmakahveci.com/coding-note/thread/</link>
+      <link>https://fatmakahveci.github.io/coding-note/thread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/thread/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/thread/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>time</title>
-      <link>https://fatmakahveci.com/python-note/time/</link>
+      <link>https://fatmakahveci.github.io/python-note/time/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/time/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/time/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Tirana</title>
-      <link>https://fatmakahveci.com/travel-note/tirana/</link>
+      <link>https://fatmakahveci.github.io/travel-note/tirana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/tirana/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/tirana/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Tokyo</title>
-      <link>https://fatmakahveci.com/travel-note/tokyo/</link>
+      <link>https://fatmakahveci.github.io/travel-note/tokyo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/tokyo/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/tokyo/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Toulouse (La Ville Rose)</title>
-      <link>https://fatmakahveci.com/travel-note/toulouse/</link>
+      <link>https://fatmakahveci.github.io/travel-note/toulouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/toulouse/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/toulouse/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Trabzon</title>
-      <link>https://fatmakahveci.com/travel-note/trabzon/</link>
+      <link>https://fatmakahveci.github.io/travel-note/trabzon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/trabzon/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/trabzon/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Tree traversal</title>
-      <link>https://fatmakahveci.com/python-note/tree_traversal/</link>
+      <link>https://fatmakahveci.github.io/python-note/tree_traversal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/tree_traversal/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/tree_traversal/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Trees</title>
-      <link>https://fatmakahveci.com/python-note/trees/</link>
+      <link>https://fatmakahveci.github.io/python-note/trees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/trees/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/trees/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Trie</title>
-      <link>https://fatmakahveci.com/python-note/trie/</link>
+      <link>https://fatmakahveci.github.io/python-note/trie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/trie/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/trie/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Turin</title>
-      <link>https://fatmakahveci.com/travel-note/turin/</link>
+      <link>https://fatmakahveci.github.io/travel-note/turin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/turin/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/turin/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Typescript</title>
-      <link>https://fatmakahveci.com/frontend-note/typescript/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/typescript/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/typescript/</guid>
       <description>Updated by Fatma, Aug 14, 2023.</description>
     </item>
     
     <item>
       <title>Typescript and React</title>
-      <link>https://fatmakahveci.com/frontend-note/typescript_react/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/typescript_react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/typescript_react/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/typescript_react/</guid>
       <description>Updated by Fatma, Aug 15, 2023.</description>
     </item>
     
     <item>
       <title>typing - Support for type hints</title>
-      <link>https://fatmakahveci.com/python-note/typing/</link>
+      <link>https://fatmakahveci.github.io/python-note/typing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/typing/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/typing/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Underscores in Python</title>
-      <link>https://fatmakahveci.com/python-note/underscores/</link>
+      <link>https://fatmakahveci.github.io/python-note/underscores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/underscores/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/underscores/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Unpacking</title>
-      <link>https://fatmakahveci.com/python-note/unpacking/</link>
+      <link>https://fatmakahveci.github.io/python-note/unpacking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/unpacking/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/unpacking/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Variables and Argument Passing</title>
-      <link>https://fatmakahveci.com/python-note/variables_and_argument_passing/</link>
+      <link>https://fatmakahveci.github.io/python-note/variables_and_argument_passing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/variables_and_argument_passing/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/variables_and_argument_passing/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Vatican City</title>
-      <link>https://fatmakahveci.com/travel-note/vatican_city/</link>
+      <link>https://fatmakahveci.github.io/travel-note/vatican_city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/vatican_city/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/vatican_city/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Vectors</title>
-      <link>https://fatmakahveci.com/python-note/vectors/</link>
+      <link>https://fatmakahveci.github.io/python-note/vectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/vectors/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/vectors/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Venice</title>
-      <link>https://fatmakahveci.com/travel-note/venice/</link>
+      <link>https://fatmakahveci.github.io/travel-note/venice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/venice/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/venice/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Vienna</title>
-      <link>https://fatmakahveci.com/travel-note/vienna/</link>
+      <link>https://fatmakahveci.github.io/travel-note/vienna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/vienna/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/vienna/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     
     <item>
       <title>Walrus</title>
-      <link>https://fatmakahveci.com/python-note/walrus/</link>
+      <link>https://fatmakahveci.github.io/python-note/walrus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/python-note/walrus/</guid>
+      <guid>https://fatmakahveci.github.io/python-note/walrus/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>webpack</title>
-      <link>https://fatmakahveci.com/frontend-note/webpack/</link>
+      <link>https://fatmakahveci.github.io/frontend-note/webpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/frontend-note/webpack/</guid>
+      <guid>https://fatmakahveci.github.io/frontend-note/webpack/</guid>
       <description>Updated by Fatma, May 28, 2023.</description>
     </item>
     
     <item>
       <title>When to use data structures and algorithms</title>
-      <link>https://fatmakahveci.com/coding-note/when_to_use/</link>
+      <link>https://fatmakahveci.github.io/coding-note/when_to_use/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/coding-note/when_to_use/</guid>
+      <guid>https://fatmakahveci.github.io/coding-note/when_to_use/</guid>
       <description>Updated by Fatma, Mar 28, 2023.</description>
     </item>
     
     <item>
       <title>Zurich</title>
-      <link>https://fatmakahveci.com/travel-note/zurich/</link>
+      <link>https://fatmakahveci.github.io/travel-note/zurich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fatmakahveci.com/travel-note/zurich/</guid>
+      <guid>https://fatmakahveci.github.io/travel-note/zurich/</guid>
       <description>Updated by Fatma, Mar 24, 2023.</description>
     </item>
     

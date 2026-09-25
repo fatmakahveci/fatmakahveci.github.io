@@ -1,10 +1,10 @@
-# fatmakahveci.com — Published Site
+# fatmakahveci.github.io — Published Site
 
-[![Website](https://img.shields.io/badge/Website-fatmakahveci.com-0F766E?logo=githubpages&logoColor=white)](https://fatmakahveci.com/)
+[![Website](https://img.shields.io/badge/Website-fatmakahveci.github.io-0F766E?logo=githubpages&logoColor=white)](https://fatmakahveci.github.io/)
 [![GitHub Pages](https://img.shields.io/badge/Hosted%20with-GitHub%20Pages-222222?logo=github&logoColor=white)](https://pages.github.com/)
 [![Last commit](https://img.shields.io/github/last-commit/fatmakahveci/fatmakahveci.github.io)](https://github.com/fatmakahveci/fatmakahveci.github.io/commits/main)
 
-The GitHub Pages deployment repository for fatmakahveci.com, containing the generated HTML, feeds, assets, and topic archives served in production.
+The GitHub Pages deployment repository for fatmakahveci.github.io, containing the generated HTML, feeds, assets, and topic archives served in production.
 
 ## Highlights
 
@@ -33,7 +33,7 @@ The GitHub Pages deployment repository for fatmakahveci.com, containing the gene
 python3 -m http.server 8000
 ```
 
-Open http://localhost:8000, or visit the production site at https://fatmakahveci.com.
+Open http://localhost:8000, or visit the production site at https://fatmakahveci.github.io/.
 
 ## Repository Structure
 
